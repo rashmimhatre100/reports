@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+#reports .ag-theme-alpine {
+  margin: 0 auto;
+  margin-top: 20px;
+  height: 30vh;
+  width: auto;
+}
